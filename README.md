@@ -8,5 +8,5 @@ Installation
 
 One liner:
 ```
-curl https://raw.github.com/tuanchung24/trustme/master/install.sh | sudo sh
+curl https://raw.githubusercontent.com/tuanchung24/trusme/master/install.sh | sudo sh
 ```
